@@ -42,7 +42,7 @@
     "sails-hook-sockets": "^1.5.5",
     "sails-mysql": "^1.0.1",
     "sails-redis": "^1.0.0",
-    "sequelize": "^6.3.5",
+    "sequelize": "^6.6.5",
     "sequelize-cli": "^6.2.0",
     "validator": "^10.9.0",
     "winston": "^2.4.3"
